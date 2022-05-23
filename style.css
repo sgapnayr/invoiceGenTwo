@@ -97,8 +97,6 @@ button:hover {
     color: black;
     margin-bottom: 1rem;
     margin-top: -1rem;
-    position: absolute;
-    transform: translateY(1800%);
 }
 
 
